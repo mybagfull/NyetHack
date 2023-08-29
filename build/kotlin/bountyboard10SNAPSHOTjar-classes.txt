@@ -1,0 +1,1 @@
+D:\Work\NyetHack\build\classes\kotlin\main\NarratorKt$narrate$narrationModifier$1.class;D:\Work\NyetHack\build\classes\kotlin\main\NarratorKt.class;D:\Work\NyetHack\build\classes\kotlin\main\NyetHackKt.class
